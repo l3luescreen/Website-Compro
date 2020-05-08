@@ -46,7 +46,7 @@ class Member extends React.Component {
                             <img src={profile3} className="card-img-top picture" />
                             <div className="card-body">
                                 <h5 className="card-title">นายกันตภณ นิธิเสริมวงศ์</h5>
-                                <footer class="blockquote-footer">role <cite title="Source Title">model 3D,</cite></footer><hr />
+                                <footer class="blockquote-footer">role <cite title="Source Title">model 3D, creater</cite></footer><hr />
                                 <p className="card-text">รหัสนักศึกษา: 62070009<br />คณะเทคโนโลยีสารสนเทศ<br />สาขาเทคโนโลยีสารสนเทศ</p>
                             </div>
                             <div className="card-body">
@@ -59,7 +59,8 @@ class Member extends React.Component {
                         <div className="card">
                             <img src={profile4} className="card-img-top picture" />
                             <div className="card-body">
-                                <h5 className="card-title">นายฐานานุศักดิ์ เพ่งเล็งดี</h5><hr />
+                                <h5 className="card-title">นายฐานานุศักดิ์ เพ่งเล็งดี</h5>
+                                <footer class="blockquote-footer">role <cite title="Source Title">Video, poster</cite></footer><hr />
                                 <p className="card-text">รหัสนักศึกษา: 62070053<br />คณะเทคโนโลยีสารสนเทศ<br />สาขาเทคโนโลยีสารสนเทศ</p>
                             </div>
                             <div className="card-body">
